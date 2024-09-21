@@ -1,4 +1,4 @@
-# Chrun-Modelling
+# Churn Modelling
 In the fast-paced world of modern banking, customer retention is a critical focus. One day, a team of analysts at a leading financial institution was given a challenge: identify the factors that lead customers to leave, or "churn," and develop a model to predict churn based on customer data. This model would enable the bank to intervene early and take action to retain valuable clients.
 
 The project aimed to analyze customer data, uncover patterns related to churn, and build predictive models that could forecast whether a customer would leave the bank. Through this process, we could identify key variables that contribute to customer churn and provide actionable insights to reduce it.
